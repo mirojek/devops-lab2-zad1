@@ -1,0 +1,1 @@
+print("Lab2 - wersja feature2")
